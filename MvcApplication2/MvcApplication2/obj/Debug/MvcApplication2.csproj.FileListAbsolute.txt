@@ -1,0 +1,5 @@
+c:\users\hr\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.dll
+c:\users\hr\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.pdb
+c:\users\hr\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hr\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.dll
+c:\users\hr\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.pdb
